@@ -2,7 +2,7 @@
   
 <img src="https://gph.is/2C49Jym.gif" width="25%" />
 <img src="https://christinaharris.design/img/drawing.png" width="25%" style="border-radius:50%" />
-<img src="https://gph.is/2crp02N.gif" width="25%" />
+<img src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
   </p>
   
 
