@@ -8,8 +8,8 @@ I'm a Graphic Designer turned Web Developer. I love styling and coding! It's lik
 
 I'm hanging around on the interwebs 🕸️ :
 
-- 🌱 I’m currently working on [making the world a better place](https://huemanistic.org/)
-- 📘 Take a look at [my web dev portfolo](https://www.christinaharris.dev/)!
-- 🎨 🖌️ Check out [my design work](https://christinaharris.design/)
-- 🎮 I might be a bit of a [gamer](https://psnprofiles.com/imriven)
+- I’m currently working on [making the world a better place](https://huemanistic.org/) 🌱 
+- Take a look at [my web dev portfolo](https://www.christinaharris.dev/)! 📘 
+- Check out [my design work](https://christinaharris.design/) 🎨 🖌️ 
+- I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮 
 
