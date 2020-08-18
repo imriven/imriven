@@ -1,4 +1,5 @@
-![profile drawing](https://christinaharris.design/img/drawing.png =30x)
+
+<img src="https://christinaharris.design/img/drawing.png" width="50%" />
 
 ### Hi I'm Christina!! 🦄✨
 
