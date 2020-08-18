@@ -1,13 +1,10 @@
 <p align="center">
-  
-<img src="https://gph.is/2C49Jym.gif" width="25%" />
-<img src="https://christinaharris.design/img/drawing.png" width="25%" style="border-radius:50%" />
-<img src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" />
   </p>
   
 
 ### Hi I'm Christina!! 🦄✨
-
+<img src="https://christinaharris.design/img/drawing.png" width="15%" />
 I'm a Graphic Designer turned Web Developer. I love styling and coding! It's like making magic happen not only visually but also behind the scenes. 
 
 I'm hanging around on the interwebs 🕸️ :
