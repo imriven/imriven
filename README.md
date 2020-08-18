@@ -1,6 +1,10 @@
 <p align="center">
+  
+<img src="https://gph.is/2C49Jym.gif" width="25%" style="style="border-radius:50%"" />
 <img src="https://christinaharris.design/img/drawing.png" width="25%" style="style="border-radius:50%"" />
+<img src="https://gph.is/2crp02N.gif" width="25%" style="style="border-radius:50%"" />
   </p>
+  
 
 ### Hi I'm Christina!! 🦄✨
 
