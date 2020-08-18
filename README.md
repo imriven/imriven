@@ -1,5 +1,5 @@
 <p align="center">
-<img src="align="center"" width="25%" />
+<img src="https://gph.is/2C49Jym" width="25%" />
   </p>
 
 ### Hi I'm Christina!! 🦄✨
