@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://christinaharris.design/img/drawing.png" width="25%" style="border-radius:50% />
+<img src="https://christinaharris.design/img/drawing.png" width="25%" style="border-radius:25px" />
   </p>
 
 ### Hi I'm Christina!! 🦄✨
