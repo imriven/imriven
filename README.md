@@ -4,7 +4,7 @@
   </p>
   
 
-# Hi I'm Christina!! <img src="https://media.giphy.com/media/XfaQkOWb3WiUGBDtj4/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/XfaQkOWb3WiUGBDtj4/giphy.gif" width="100"/> # Hi I'm Christina!! 
 I'm a Graphic Designer turned Web Developer. I love styling and coding! It's like making magic happen not only visually but also behind the scenes. 
 
 I'm hanging around on the interwebs 🕸️ :
