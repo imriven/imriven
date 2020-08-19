@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/l3mZnuz4coJp8EBBm/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600"/>
   </p>
   
   <p align="center">
@@ -19,6 +18,6 @@ You can find me hanging around on the interwebs 🕸️ :
 - I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮 
 
 ## _Tools & Technologies_
-  <img src="https://img.shields.io/badge/OS-MAC-black?style=plastic&logo=apple"/> <img src="https://img.shields.io/badge/OS-Windows-black?style=plastic&logo=microsoft"/> <img src="https://img.shields.io/badge/Editor-VSCode-green?style=plastic&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Editor-Atom-green?style=plastic&logo=atom"/> <img src="https://img.shields.io/badge/Editor-Brackets-green?style=plastic&logo=brackets"/> <img src="https://img.shields.io/badge/Language-Javascript-lightgray?style=plastic&logo=javascript"/> <img src="https://img.shields.io/badge/Language-Python-lightgray?style=plastic&logo=python"/>
+  <img src="https://img.shields.io/badge/OS-MAC-black?style=plastic&logo=apple"/> <img src="https://img.shields.io/badge/OS-Windows-black?style=plastic&logo=microsoft"/> <img src="https://img.shields.io/badge/Editor-VSCode-green?style=plastic&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Editor-Atom-green?style=plastic&logo=atom"/> <img src="https://img.shields.io/badge/Editor-Brackets-green?style=plastic&logo=brackets"/> <img src="https://img.shields.io/badge/Language-Javascript-lightgray?style=plastic&logo=javascript"/> <img src="https://img.shields.io/badge/Language-Python-lightgray?style=plastic&logo=python"/> <img src="https://img.shields.io/badge/Version%Control-Github-blue?style=plastic&logo=github"/>
 
 
