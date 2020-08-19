@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600"/>
-  </p>
-  
+
 <p align="center">
   <img src="https://christinaharris.design/profile.gif"/>
 </p>
