@@ -19,3 +19,4 @@ I'm hanging around on the interwebs 🕸️ :
 - I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮 
 
 ## _Tools & Technologies_
+https://img.shields.io/badge/<OS>-<MAC>-<brightgreen>
