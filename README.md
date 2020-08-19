@@ -19,5 +19,5 @@ You can find me hanging around on the interwebs 🕸️ :
 - I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮 
 
 ## _Tools & Technologies_
-  <img src="https://img.shields.io/badge/OS-MAC-brightgreen?style=plastic&logo=apple"/> <img src="https://img.shields.io/badge/OS-Windows-brightgreen?style=plastic&logo=microsoft"/> <img src="https://img.shields.io/badge/Editor-VSCode-brightgreen?style=plastic&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/OS-MAC-brightgreen?style=plastic&logo=apple"/> <img src="https://img.shields.io/badge/OS-Windows-brightgreen?style=plastic&logo=microsoft"/> <img src="https://img.shields.io/badge/Editor-VSCode-brightgreen?style=plastic&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Editor-Atom-brightgreen?style=plastic&logo=atom"/> <img src="https://img.shields.io/badge/Editor-Brackets-brightgreen?style=plastic&logo=brackets"/>
 
