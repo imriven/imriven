@@ -19,6 +19,6 @@ You can find me hanging around on the interwebs 🕸️ :
 - I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮 
 
 ## _Tools & Technologies_
-  <img src="https://img.shields.io/badge/OS-MAC-black?style=plastic&logo=apple"/> <img src="https://img.shields.io/badge/OS-Windows-black?style=plastic&logo=microsoft"/> <img src="https://img.shields.io/badge/Editor-VSCode-green?style=plastic&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Editor-Atom-green?style=plastic&logo=atom"/> <img src="https://img.shields.io/badge/Editor-Brackets-green?style=plastic&logo=brackets"/> <img src="https://img.shields.io/badge/Language-Python-lightgray?style=plastic&logo=python"/>
+  <img src="https://img.shields.io/badge/OS-MAC-black?style=plastic&logo=apple"/> <img src="https://img.shields.io/badge/OS-Windows-black?style=plastic&logo=microsoft"/> <img src="https://img.shields.io/badge/Editor-VSCode-green?style=plastic&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Editor-Atom-green?style=plastic&logo=atom"/> <img src="https://img.shields.io/badge/Editor-Brackets-green?style=plastic&logo=brackets"/> <img src="https://img.shields.io/badge/Language-Javascript-lightgray?style=plastic&logo=python"/> <img src="https://img.shields.io/badge/Language-Python-lightgray?style=plastic&logo=python"/>
 
 
