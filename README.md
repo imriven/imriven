@@ -3,7 +3,7 @@
   </p>
   
   <p align="center">
-  <img src="https://christinaharris.design/profile.gif" width="600"/>
+  <img src="https://christinaharris.design/profile.gif"/>
   </p>
   
 
