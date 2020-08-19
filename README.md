@@ -20,4 +20,4 @@ You can find me hanging around on the interwebs 🕸️ :
 
 ## _Tools & Technologies_
   <img src="https://img.shields.io/badge/OS-MAC-brightgreen?style=plastic&logo=apple"/>
-<img src="https://img.shields.io/badge/OS-MAC-brightgreen?style=plastic&logo=microsoft"/>
+<img src="https://img.shields.io/badge/OS-Windows-brightgreen?style=plastic&logo=microsoft"/>
