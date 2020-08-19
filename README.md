@@ -14,4 +14,4 @@ I'm hanging around on the interwebs 🕸️ :
 - Check out [my design work](https://christinaharris.design/) 🎨 🖌️ 
 - I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮 
 
-_##Tools & Technologies_
+## _Tools & Technologies_
