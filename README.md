@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./profile.gif?raw=true"/>
+  <img src="https://github.com/imriven/imriven/blob/master/profile.gif?raw=true"/>
 </p>
 
 
