@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="background-color:blue">
   <img src="https://github.com/imriven/imriven/blob/master/profile.gif?raw=true"/>
 </p>
 
