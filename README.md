@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/imriven/imriven/blob/master/profile_org.gif?raw=true"/>
+  <img src="https://github.com/imriven/imriven/blob/master/profile-hi.gif?raw=true"/>
 </p>
 
 
