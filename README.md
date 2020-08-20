@@ -1,7 +1,8 @@
-
-<p align="center" style="background-color:blue">
+<div style="background-color:black, width:100%"
+<p align="center">
   <img src="https://github.com/imriven/imriven/blob/master/profile.gif?raw=true"/>
 </p>
+</div>
 
 
  
