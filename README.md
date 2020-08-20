@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="profile_org.gif?raw=true"/>
+  <img src="profile_org.gif"/>
 </p>
 
 
