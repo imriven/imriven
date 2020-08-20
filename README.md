@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://christinaharris.design/profile.gif" width="800"/>
+  <img src="https://christinaharris.design/profile.gif"/>
 </p>
   
 
