@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="profile_org.gif" width="1000"/>
+  <img src="profile-hi.gif" width="1000"/>
 </p>
 
 
