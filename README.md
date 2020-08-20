@@ -3,8 +3,11 @@
   <img src="https://christinaharris.design/profile.gif"/>
 </p>
   
-
- # Hi I'm Christina!! 
+<p align="center">
+  <img src="https://media.giphy.com/media/XfaQkOWb3WiUGBDtj4/giphy.gif" width="100"/>
+  # Hi I'm Christina!! 
+</p>
+ 
 I'm a Graphic Designer turned Web Developer. I love styling and coding! It's like making magic happen not only visually but also behind the scenes. 
 
 You can find me hanging around on the interwebs 🕸️ :
