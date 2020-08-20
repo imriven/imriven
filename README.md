@@ -11,7 +11,7 @@
  
 I'm a Graphic Designer turned Web Developer. I love styling and coding! It's like making magic happen not only visually but also behind the scenes. 
 
-You can find me hanging around on the interwebs 🕸️ :
+You can find me hanging around the interwebs 🕸️ :
 
 - I’m currently working on [making the world a better place](https://huemanistic.org/) 🌱 
 - Take a look at [my web dev portfolo](https://www.christinaharris.dev/)! 📘 
