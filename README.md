@@ -6,8 +6,7 @@
 
 
 <img src="https://media.giphy.com/media/XfaQkOWb3WiUGBDtj4/giphy.gif?raw=true" width="100"/>
- 
-  # _Hi I'm Christina!!_ 
+# _Hi I'm Christina!!_ 
 
  
 I'm a Graphic Designer turned Web Developer. I love styling and coding! It's like making magic happen not only visually but also behind the scenes. 
