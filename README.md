@@ -1,10 +1,5 @@
-<style type="text/css" rel="stylesheet">
-* { color: white;
-  background-color:black}
-</style>
 
-
-<div style="background-color:black, width:100%"
+<div style="background-color:black, width:100%">
 <p align="center">
   <img src="https://github.com/imriven/imriven/blob/master/profile.gif?raw=true"/>
 </p>
