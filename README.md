@@ -15,7 +15,6 @@ You can find me hanging around the interwebs 🕸️ :
 
 - I’m currently working on [making the world a better place](https://huemanistic.org/) 🌱 
 - Take a look at [my web dev portfolo](https://www.christinaharris.dev/)! 📘 
-- Check out [my design work](https://christinaharris.design/) 🎨 🖌️ 
 - I might be a bit of a [gamer](https://psnprofiles.com/imriven) 🎮  
   Add me on PSN: imriven
 
